@@ -1,5 +1,5 @@
 # Boring.
-A sleek, interactive bar that redefines the macOS experience. 🤟 in every way possible.
+A sleek, interactive bar that redefines the macOS experience. 🤟 In every way possible. Made with 🫰 by cool hango.
 
 <img width="1470" alt="Screenshot 2024-09-04 at 7 22 22 PM" src="https://github.com/user-attachments/assets/e0c072f8-639c-43a9-a354-1fdc53e071f9">
 <img width="1470" alt="Screenshot 2024-09-04 at 9 22 38 PM" src="https://github.com/user-attachments/assets/65b4461a-d7a1-4cfa-9c9a-3fbaaac793fe">
