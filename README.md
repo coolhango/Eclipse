@@ -50,7 +50,7 @@ A sleek, interactive bar that redefines the macOS experience. 🤟 in every way 
 
 1. After installation, open the app from your Applications folder. The app will integrate seamlessly with your macOS interface, placing a dynamic bar near your screen’s notch.
    
-2. Control your music: Hovering over the notch to reveal the Control Panel. You can:
+2. Control your music or video: Hovering over the notch to reveal the Control Panel. You can:
 - Play/Pause your current track. ✋
 - Skip to the next song or go back to the previous one. 
 - View your battery percentage directly within the bar for quick status updates. 🔋
@@ -59,3 +59,13 @@ A sleek, interactive bar that redefines the macOS experience. 🤟 in every way 
 ## 📄 **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+![image](https://github.com/user-attachments/assets/339a7ecc-daf8-4caf-a58f-9a9efca7e027)
+
+## 🎉 Acknowledgments
+1. SwiftUI
+1. You: For being awesome and rockin' the the show!
+
+Cheers.
+<img width="1470" alt="Screenshot 2024-09-04 at 10 03 54 PM" src="https://github.com/user-attachments/assets/cc1a39e9-a595-47fa-a53f-652c90f597a8">
+
+
