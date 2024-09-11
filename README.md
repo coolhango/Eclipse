@@ -1,4 +1,4 @@
-# Boring.
+# Eclipse
 A sleek, interactive bar that redefines the macOS experience. 🤟 In every way possible. Made with 🫰 by cool hango.
 
 <img width="1470" alt="Screenshot 2024-09-04 at 7 22 22 PM" src="https://github.com/user-attachments/assets/e0c072f8-639c-43a9-a354-1fdc53e071f9">
@@ -6,9 +6,9 @@ A sleek, interactive bar that redefines the macOS experience. 🤟 In every way 
 
 ---
 
-# 🎵 **Boring for Mac** 🎵
+# 🎵 **Eclipse for Mac** 🎵
 
-**Boring.** A sleek, interactive bar that brings music controls and animations right to your macOS interface. Experience your music in a whole new way. Whether you're working or relaxing, Boring tunes in every way possible!
+**Eclipse.** A sleek, interactive bar that brings music controls and animations right to your macOS interface. Experience your music in a whole new way. Whether you're working or relaxing, Boring tunes in every way possible!
 
 ## 🚀 **Features**
 
@@ -28,12 +28,12 @@ A sleek, interactive bar that redefines the macOS experience. 🤟 In every way 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/coolhango/Boring..git
+   git clone https://github.com/coolhango/Eclipse..git
    ```
 
 2. **Navigate to the directory:**
    ```bash
-   cd Boring
+   cd Eclipse
    ```
 
 3. **Run the installation script:**
@@ -43,7 +43,7 @@ A sleek, interactive bar that redefines the macOS experience. 🤟 In every way 
 
 4. **Launch the app:**
    ```bash
-   open (something).app
+   open Eclipse.app
    ```
 
 ## 🛠 **Usage**
