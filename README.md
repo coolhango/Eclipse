@@ -67,5 +67,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Cheers.
 <img width="1470" alt="Screenshot 2024-09-04 at 10 03 54 PM" src="https://github.com/user-attachments/assets/cc1a39e9-a595-47fa-a53f-652c90f597a8">
-
-
+Version v2 (Lunar Shift)
