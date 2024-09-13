@@ -8,7 +8,7 @@ A sleek, interactive bar that redefines the macOS experience. 🤟 In every way 
 
 # 🎵 **Eclipse for Mac** 🎵
 
-**Eclipse.** A sleek, interactive bar that brings music controls and animations right to your macOS interface. Experience your music in a whole new way. Whether you're working or relaxing, Boring tunes in every way possible!
+**Eclipse.** A sleek, interactive bar that brings music controls and animations right to your macOS interface. Experience your music in a whole new way. Whether you're working or relaxing, Eclipse tunes in every way possible!
 
 ## 🚀 **Features**
 
